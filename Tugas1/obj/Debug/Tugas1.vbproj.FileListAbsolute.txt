@@ -1,0 +1,28 @@
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\bin\Debug\Tugas1.xml
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\obj\Debug\Tugas1.Form1.resources
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\obj\Debug\Tugas1.Resources.resources
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\obj\Debug\Tugas1.vbproj.GenerateResource.Cache
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\obj\Debug\Tugas1.xml
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
+G:\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+G:\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+G:\Tugas1\Tugas1\obj\Debug\Tugas1.xml
+G:\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
+G:\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+G:\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+G:\Tugas1\Tugas1\bin\Debug\Tugas1.xml
+G:\Tugas1\Tugas1\obj\Debug\Tugas1.Form1.resources
+G:\Tugas1\Tugas1\obj\Debug\Tugas1.Resources.resources
+G:\Tugas1\Tugas1\obj\Debug\Tugas1.vbproj.GenerateResource.Cache
+I:\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+I:\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+I:\Tugas1\Tugas1\obj\Debug\Tugas1.xml
+I:\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Tugas1\Tugas1\obj\Debug\Tugas1.xml
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
